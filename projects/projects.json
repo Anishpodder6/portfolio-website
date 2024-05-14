@@ -1,0 +1,64 @@
+[
+    
+    {
+      "name": "Weather widget",
+      "desc": "In this weather app, a user can enter the city name and get the weather information of the particular city from API.[using HTML,CSS,JS]",
+      "image": "weather_widget",
+      "category": "basicweb",
+      "links": {
+        "view": "https://Anishpodder6.github.io/Weather_widget/",
+        "code": "https://github.com/Anishpodder6/Weather_widget"
+      }
+    },
+    {
+      "name": "Review Probe Job",
+      "desc": "A website (and application) for job seekers to find their perfect job, as well as recruiters to find a perfect match for their role and position according to their need with available e-score feature.",
+      "image": "rpj",
+      "category": "Full-stack",
+      "links": {
+        "view": "https://ReviewProbe.com",
+        "code": "https://gitlab.com/front-end-group/rpj-angular"
+      }
+    },
+    {
+      "name": "Portfolio Website",
+      "desc": "A personal portfolio website consists of 'Home', 'About', 'Skills', 'Education', 'Projects', 'Work experience' and 'Contact' section",
+      "image": "portfolio_website",
+      "category": "basic web",
+      "links": {
+        "view": "",
+        "code": ""
+      }
+    },
+    {
+      "name": "To-Do website",
+      "desc": " In this website we can add our task list and mark that task as completed or incomplete. Here, we are using Local Storage that will store the task To-Do list in your web browser, So that if you close and restart the browser then also it will display our saved To-Do List",
+      "image": "to-do",
+      "category": "basic web",
+      "links": {
+        "view": "https://anishpodder6.github.io/to-do/",
+        "code": "https://github.com/Anishpodder6/to-do"
+      }
+    },
+    {
+      "name": "Automatic Water Dispenser",
+      "desc": "In this hardware based project when we will keep our hand infront of IR sensor then it will generate a signal and that signal will receive by relay and relay will activate water pump. Thus, that dispenser can dispense water without the need for manual operation. ",
+      "image": "",
+      "category": "Hardware",
+      "links": {
+        "view": "https://drive.google.com/file/d/1CfIAi1lAU4VZND6RLQiY9h0c4dxdYUkI/view?usp=sharing",
+        "code": ""
+      }
+    },
+    {
+      "name": "News app",
+      "desc": "",
+      "image": "",
+      "category": "basicweb",
+      "links": {
+        "view": "",
+        "code": ""
+      }
+    }
+  ]
+  
