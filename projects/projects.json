@@ -26,13 +26,13 @@
       "image": "portfolio_website",
       "category": "basic web",
       "links": {
-        "view": "",
-        "code": ""
+        "view": "https://anishpodder6.github.io/portfolio-website/",
+        "code": "https://github.com/Anishpodder6/portfolio-website"
       }
     },
     {
       "name": "To-Do website",
-      "desc": " In this website we can add our task list and mark that task as completed or incomplete. Here, we are using Local Storage that will store the task To-Do list in your web browser, So that if you close and restart the browser then also it will display our saved To-Do List",
+      "desc": " In this website user can add their tasks and mark their particular task as complete or incomplete. Here, I used Local Storage that will store the task To-Do list in the web browser. ",
       "image": "to-do",
       "category": "basic web",
       "links": {
@@ -42,22 +42,22 @@
     },
     {
       "name": "Automatic Water Dispenser",
-      "desc": "In this hardware based project when we will keep our hand infront of IR sensor then it will generate a signal and that signal will receive by relay and relay will activate water pump. Thus, that dispenser can dispense water without the need for manual operation. ",
-      "image": "",
+      "desc": "In this hardware based project when one user will bring their hand infront of IR sensor then dispenser will dispense water without manual operation. ",
+      "image": "automatic_water_dispenser",
       "category": "Hardware",
       "links": {
-        "view": "https://drive.google.com/file/d/1CfIAi1lAU4VZND6RLQiY9h0c4dxdYUkI/view?usp=sharing",
-        "code": ""
+        "view": "https://drive.google.com/file/d/1UMKO8-MXR9yaUWtUENn2d_M5WIKtc5iw/view?usp=sharing",
+        "code": "https://drive.google.com/file/d/1UMKO8-MXR9yaUWtUENn2d_M5WIKtc5iw/view?usp=sharing"
       }
     },
     {
-      "name": "News app",
-      "desc": "",
-      "image": "",
-      "category": "basicweb",
+      "name": "IPL dashboard",
+      "desc": "An interactive IPL Analysis Dashboard in Power BI, providing comprehensive insights into team performances, player statistics, and match outcomes.",
+      "image": "IPL_dashboard",
+      "category": "Data Analysis",
       "links": {
-        "view": "",
-        "code": ""
+        "view": "https://drive.google.com/file/d/1nIBQwmhVOEWs-8w1IP2QiTGcvqKNG6r2/view?usp=sharing",
+        "code": "https://drive.google.com/file/d/1nIBQwmhVOEWs-8w1IP2QiTGcvqKNG6r2/view?usp=sharing"
       }
     }
   ]
