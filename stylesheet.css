@@ -241,6 +241,8 @@ body {
 }
 
 @media (max-width: 768px) {
+
+
   .header {
       padding: 20px 5%;
   }
@@ -255,7 +257,7 @@ body {
       position: fixed;
       top: 0;
       right: 0;
-      height: 100vh;
+      height: 59%;
       width: 200px;
       background-color: white;
       z-index: 1000;
@@ -291,10 +293,10 @@ body {
   }
 
   .home {
-      background: none; /* Hide the background image */
-      background-color: #f0f0f0; /* Replace with your desired background color */
+      background: none;
+      background-color: #adfff3;
       padding: 50px 5%;
-      text-align: center; /* Center text for mobile */
+      text-align: center; 
   }
 
   .home-content h3 {
@@ -327,112 +329,6 @@ body {
       font-size: 1.2rem;
   }
 }
-
-/* @media (max-width: 768px) {
-  #menu {
-    display: block;
-  }
-  header .navbar {
-    position: fixed;
-    top: 6.5rem;
-    right: -120%;
-    width: 75%;
-    height: 100%;
-    text-align: left;
-    align-items: flex-start;
-    background-color: #0e0f31;
-  }
-  header .navbar ul {
-    flex-flow: column;
-    padding: 1rem;
-  }
-  header .navbar ul li {
-    text-align: center;
-    width: 100%;
-    margin: 1rem 0;
-    border-radius: 0.5rem;
-    width: 26rem;
-  }
-  header .navbar ul li a {
-    display: block;
-    padding: 1rem;
-    text-align: left;
-    color: #fff;
-    font-size: 2rem;
-  }
-  header .navbar ul li a.active,
-  header .navbar ul li a:hover {
-    padding: 1rem;
-    color: #fff;
-    border-radius: 0.5rem;
-    border-bottom: 0.5rem solid #011aff;
-  }
-  .fa-times {
-    transform: rotate(180deg);
-  }
-  header .navbar.nav-toggle {
-    right: 0;
-  }
-} */
-/* hamburger icon ends */
-
-/* @media only screen and (max-width: 768px) { */
-  /* Adjust styles for smaller screens */
-  /* .header {
-      padding: 20px 5%;
-  }
-
-  .navbar a {
-      font-size: 16px;
-  }
-
-  .home-content h1 {
-      font-size: 3rem;
-  }
-
-  .home-content h1 span {
-      font-size: 3rem;
-  }
-
-  .home-content h3,
-  .home-content h3:nth-of-type(2) {
-      font-size: 24px;
-  }
-
-  .btn-box {
-      padding: 10px 20px;
-      font-size: 1.2rem;
-  }
-} */
-
-/* @media only screen and (max-width: 480px) { */
-  /* Adjust styles for even smaller screens */
-  /* .header {
-      padding: 15px 5%;
-  }
-
-  .navbar a {
-      font-size: 14px;
-  }
-
-  .home-content h1 {
-      font-size: 2.5rem;
-  }
-
-  .home-content h1 span {
-      font-size: 2.5rem;
-  }
-
-  .home-content h3,
-  .home-content h3:nth-of-type(2) {
-      font-size: 20px;
-  }
-
-  .btn-box {
-      padding: 8px 16px;
-      font-size: 1rem;
-  }
-} */
 
 /* About section starts */
 
