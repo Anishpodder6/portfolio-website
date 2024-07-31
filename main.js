@@ -1,3 +1,21 @@
+document.addEventListener('DOMContentLoaded', function() {
+    const navbarToggler = document.querySelector('.navbar-toggler');
+    const navbar = document.querySelector('.navbar');
+    const navbarLinks = navbar.querySelectorAll('a');
+
+    // Toggle sidebar visibility
+    navbarToggler.addEventListener('click', function() {
+        navbar.classList.toggle('active');
+    });
+
+    // Hide sidebar when a link is clicked
+    navbarLinks.forEach(link => {
+        link.addEventListener('click', function() {
+            navbar.classList.remove('active');
+        });
+    });
+});
+
 var typed = new Typed(".text", {
     strings:["Web Development" , "Frontend Development" , "Backend Development" , "Web Designing"],
     typeSpeed:100,
@@ -180,3 +198,6 @@ $('.button-group').on('click', 'button', function () {
     var filterValue = $(this).attr('data-filter');
     $grid.isotope({ filter: filterValue });
 });
+
+
+
